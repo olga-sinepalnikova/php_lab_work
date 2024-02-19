@@ -1,0 +1,20 @@
+.table-border{
+    border: 3px solid green;
+}
+
+body, p{
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 15px;
+}
+
+.left-column{
+    background: #d6d6d6;
+    border-right: 3px solid green;
+}
+.title{background:green; color:white; padding:5px 15px;}
+.menu li{color:green;}
+.menu li a{color:green;}
+.menu li:hover{color:black}
+.menu li:hover a{color:black}
+.article{border-bottom: 3px solid green;}
